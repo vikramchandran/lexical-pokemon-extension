@@ -1,6 +1,6 @@
 ## Lexical Playground With Pokemon!!
 
-This application is an pokemon extension of Facebook's Lexical Editor. Specifically, this project is forked from [Lexical Playground Demo](https://github.com/facebook/lexical/tree/a4f064bee63b7f6257a89ffc519551d081da44d1/packages/lexical-playground).
+This React application is an pokemon extension of Facebook's Lexical Editor. Specifically, this project is forked from [Lexical Playground Demo](https://github.com/facebook/lexical/tree/a4f064bee63b7f6257a89ffc519551d081da44d1/packages/lexical-playground).
 
 ## Installation and Setup Instructions
 
